@@ -6,8 +6,6 @@ import App from './components/Appg';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    
-
   </React.StrictMode>,
   document.getElementById('root')
 );
